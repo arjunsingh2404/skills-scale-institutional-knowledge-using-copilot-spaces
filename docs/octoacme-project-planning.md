@@ -41,3 +41,6 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Documentation of Risks
+- [ ] Stakeholder Management
+- [ ] 
